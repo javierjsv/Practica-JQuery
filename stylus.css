@@ -1,0 +1,77 @@
+.text{
+	color: red;
+}
+
+.uno{
+	margin-top: 10px;
+	width: 100px;
+	height: 50px;
+	background-color: #ea0909; 
+}
+
+.dos{
+	margin-top: 10px;
+	width: 150px;
+	height: 50px;
+	background-color: gray;
+	border: solid 2px blue;
+}
+
+.cj-1,.cj-2,.cj-3{
+	margin: 10px;
+	width: 50px;
+	height: 50px;
+	border: solid 2px black;
+
+
+	}
+.cj-1{
+		background-color: blue; 
+}
+.cj-2{
+		background-color: yellow; 
+}
+.cj-3{
+		background-color: green; 
+}
+
+.cj-0{
+	    display: flex;
+}
+.cj-5{
+	margin: 10px;
+	width: 5.5rem;
+	height: 50px;
+	border: solid 2px black;
+	text-align: center;
+
+	}
+	.cj-5 > span{
+		color: red;
+
+	}
+
+.miCls{
+	background-color: #E0DFDF;
+}
+.valida{
+	color: green;
+}
+.error{
+	color: red;
+}
+.falta{
+	color: orange;
+}
+.sliderTog {
+	display: none;
+	width: 100px;
+	height: 100px;
+	border: solid 2px blue;
+	background-color: #6D59E7;
+	margin: 10px;
+}
+.carrera{
+	display: none;
+	height: 100px;
+}
